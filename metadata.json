@@ -1,0 +1,6 @@
+{
+  "name": "Nails by Love | NE Calgary",
+  "description": "Boutique nail studio in NE Calgary specializing in GelX extensions, BIAB structured overlays, and Shellac. DM on Instagram with your inspiration photos for custom pricing and booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
